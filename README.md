@@ -5,6 +5,4 @@ Login
 Username : admin 
 Password : admin
 
-- PHP
-- Python
-- MySQL
+
